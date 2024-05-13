@@ -1,1 +1,1 @@
-# WindMill-Energy-Prediction
+#Utilized Databricks for windmill power prediction, leveraging PySpark. Conducted thorough data exploration, analyzing wind speed, direction, month, and week impact on power generation. Visualized insights using Power BI. Employed models like GBT Regressor, Linear Regressor, and Random Forest Regressor, performing model evaluation and selecting GBT Regressor for optimal accuracy.
