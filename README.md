@@ -4,7 +4,7 @@ Objective
 The goal of this study is to predict wind turbine power production using wind speed, wind direction, month, and hour data.
 
 Dataset Overview
-The dataset consists of 50,530 observations, recorded at 10-minute intervals. To demonstrate my data science skills with big data, I will use the PySpark library.
+The dataset consists of 50,530 observations, recorded at 10-minute intervals. To demonstrate my data science skills with big data, I have used the PySpark library.
 
 Dataset Features:
 Date/Time: Timestamp for each 10-minute interval.
